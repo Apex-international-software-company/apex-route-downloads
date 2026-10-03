@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "us-states-2026-10-02",
+  "generatedAt": "2026-10-03T02:40:57Z",
+  "sourceOsmTimestamp": "2026-10-02T20:21:34Z",
+  "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut",
+  "valhallaVersion": "3.6.3",
+  "minAppVersionCode": 17,
+  "attribution": "\u00a9 OpenStreetMap contributors (ODbL), \u00a9 OpenMapTiles",
+  "states": [
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "version": "2026-10-02",
+      "bbox": [
+        -109.0631,
+        36.9894,
+        -102.0355,
+        41.0039
+      ],
+      "downloadBytes": 504198785,
+      "installedBytes": 834990973,
+      "files": [
+        {
+          "kind": "map",
+          "name": "CO_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/CO_map.pmtiles",
+          "sizeBytes": 311891605,
+          "sha256": "073e8aefc43424743266dbcc91f4b556ea0d359955aab636030f4537a478a8ae",
+          "unpackedBytes": 311891605
+        },
+        {
+          "kind": "routing",
+          "name": "CO_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/CO_routing.tar.gz",
+          "sizeBytes": 192082704,
+          "sha256": "865f464c12ce4a03cc0c2756e29fd8ff02e00d445f225d4b413676ab9fd4721e",
+          "unpackedBytes": 522513640
+        },
+        {
+          "kind": "search",
+          "name": "CO_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/CO_search.db.gz",
+          "sizeBytes": 224476,
+          "sha256": "d6558427b0001574757c9ec3f1520f29241ef95dd183ff2d0ee2988fb528719c",
+          "unpackedBytes": 585728
+        }
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "version": "2026-10-02",
+      "bbox": [
+        -109.0504,
+        31.3304,
+        -102.9979,
+        37.0018
+      ],
+      "downloadBytes": 263465227,
+      "installedBytes": 443308734,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NM_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NM_map.pmtiles",
+          "sizeBytes": 150995966,
+          "sha256": "102d2ca50102fc3d36090dccca8e4963388d27fe989656f8f65a4532654d8a4a",
+          "unpackedBytes": 150995966
+        },
+        {
+          "kind": "routing",
+          "name": "NM_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NM_routing.tar.gz",
+          "sizeBytes": 112306803,
+          "sha256": "1ba72b4c028b31a472ece4aca5f4565ea958a98404a1d4a429be46af87acb230",
+          "unpackedBytes": 291882688
+        },
+        {
+          "kind": "search",
+          "name": "NM_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NM_search.db.gz",
+          "sizeBytes": 162458,
+          "sha256": "bc31a926ccf70125815c6e62330230d49bea4ac017d9c9f4e3aeaac827c44d64",
+          "unpackedBytes": 430080
+        }
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "version": "2026-10-02",
+      "bbox": [
+        -114.0556,
+        36.9963,
+        -109.0394,
+        42.0032
+      ],
+      "downloadBytes": 295341865,
+      "installedBytes": 488546587,
+      "files": [
+        {
+          "kind": "map",
+          "name": "UT_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/UT_map.pmtiles",
+          "sizeBytes": 183432491,
+          "sha256": "e97cc439af4a2bc0804718d30ded3c401917607a34fcfd6b0460a309a4c9479c",
+          "unpackedBytes": 183432491
+        },
+        {
+          "kind": "routing",
+          "name": "UT_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/UT_routing.tar.gz",
+          "sizeBytes": 111609151,
+          "sha256": "0d8f5a774ef758681003e1ad628cd8c1aa6c8219ea05fbf8fa38c1c5a80c855f",
+          "unpackedBytes": 304298992
+        },
+        {
+          "kind": "search",
+          "name": "UT_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/UT_search.db.gz",
+          "sizeBytes": 300223,
+          "sha256": "001686317f5163113c595a310dd7aaa1fb5749e2fb357e996f2430fe50efb17f",
+          "unpackedBytes": 815104
+        }
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "version": "2026-10-02",
+      "bbox": [
+        -114.8224,
+        31.3266,
+        -109.0437,
+        37.006
+      ],
+      "downloadBytes": 444906452,
+      "installedBytes": 761420450,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AZ_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AZ_map.pmtiles",
+          "sizeBytes": 265724546,
+          "sha256": "09cc287af30cf8a65d7740cf89b1e8b95a7e466f05d0afc22ae12feebeedce9b",
+          "unpackedBytes": 265724546
+        },
+        {
+          "kind": "routing",
+          "name": "AZ_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AZ_routing.tar.gz",
+          "sizeBytes": 178971051,
+          "sha256": "58640a75b41be819e4966a14279bff57d4f7e2e0ee061e89e2d7026fc1414b0d",
+          "unpackedBytes": 495147040
+        },
+        {
+          "kind": "search",
+          "name": "AZ_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AZ_search.db.gz",
+          "sizeBytes": 210855,
+          "sha256": "5f28da27422e5472e38568fe9babbf80217c3afd5bffbb0325cbb263bb7ccb3d",
+          "unpackedBytes": 548864
+        }
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "version": "2026-10-02",
+      "bbox": [
+        -84.3222,
+        33.1299,
+        -73.7396,
+        36.5898
+      ],
+      "downloadBytes": 648921288,
+      "installedBytes": 1208584373,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NC_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NC_map.pmtiles",
+          "sizeBytes": 325339093,
+          "sha256": "999026d8c83fe511e93b86fed3ad537eda23091f8678f89c715f17e27ff69bef",
+          "unpackedBytes": 325339093
+        },
+        {
+          "kind": "routing",
+          "name": "NC_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NC_routing.tar.gz",
+          "sizeBytes": 323069201,
+          "sha256": "956bc7ccc5b311af019fe7f5bb27cdc4d554cc700f6aceb5bd14cb0b741d0275",
+          "unpackedBytes": 881938656
+        },
+        {
+          "kind": "search",
+          "name": "NC_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/NC_search.db.gz",
+          "sizeBytes": 512994,
+          "sha256": "0866c7c5994edc3edce00185d2be28d2a0de742a22bdcab9b8e24ba07c5b45a0",
+          "unpackedBytes": 1306624
+        }
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "version": "2026-10-02",
+      "bbox": [
+        -90.3133,
+        34.9827,
+        -81.6442,
+        36.6808
+      ],
+      "downloadBytes": 378750613,
+      "installedBytes": 748138156,
+      "files": [
+        {
+          "kind": "map",
+          "name": "TN_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TN_map.pmtiles",
+          "sizeBytes": 166988204,
+          "sha256": "3cce55aed08c824c600ffb4defa9fe44660546265972a95dc8e721c7fd93fbb4",
+          "unpackedBytes": 166988204
+        },
+        {
+          "kind": "routing",
+          "name": "TN_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TN_routing.tar.gz",
+          "sizeBytes": 211302458,
+          "sha256": "5c56a25f77b395a2e9434453cf31c6b493e9e13191effdb9a00addb48cc5da82",
+          "unpackedBytes": 579962112
+        },
+        {
+          "kind": "search",
+          "name": "TN_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TN_search.db.gz",
+          "sizeBytes": 459951,
+          "sha256": "dd94588aa065d74d23895eea93f2c80e2b103ed62ded2c93cf5603ff5c16fdc6",
+          "unpackedBytes": 1187840
+        }
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "version": "2026-10-02",
+      "bbox": [
+        -85.6068,
+        30.3536,
+        -80.7431,
+        35.0036
+      ],
+      "downloadBytes": 522084414,
+      "installedBytes": 972689704,
+      "files": [
+        {
+          "kind": "map",
+          "name": "GA_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/GA_map.pmtiles",
+          "sizeBytes": 261314240,
+          "sha256": "3511db31ca849f2ddfe10a919549054f610f36bdcd4438e278b72c7ca43f730a",
+          "unpackedBytes": 261314240
+        },
+        {
+          "kind": "routing",
+          "name": "GA_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/GA_routing.tar.gz",
+          "sizeBytes": 260267770,
+          "sha256": "79969c48e1e47a7f7393b0694ca5f3bbdbace45049df6685cb310b0df84d1042",
+          "unpackedBytes": 710077032
+        },
+        {
+          "kind": "search",
+          "name": "GA_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/GA_search.db.gz",
+          "sizeBytes": 502404,
+          "sha256": "c62fedeee00807d290822eb13e57abe3679f7f9f9ba575516a4a3ed0a537fce8",
+          "unpackedBytes": 1298432
+        }
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "version": "2026-10-02",
+      "bbox": [
+        -83.3562,
+        32.0297,
+        -78.5187,
+        35.2184
+      ],
+      "downloadBytes": 339812342,
+      "installedBytes": 670478854,
+      "files": [
+        {
+          "kind": "map",
+          "name": "SC_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/SC_map.pmtiles",
+          "sizeBytes": 152048894,
+          "sha256": "20a0863f787dbcb6742c1cd04c8f856057f602d2c8063125e04626081b6bdfe5",
+          "unpackedBytes": 152048894
+        },
+        {
+          "kind": "routing",
+          "name": "SC_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/SC_routing.tar.gz",
+          "sizeBytes": 187374713,
+          "sha256": "4400a5fa65eb194311088dc3acbba5f462cb393a61d82d73672f3b2b30579136",
+          "unpackedBytes": 517418248
+        },
+        {
+          "kind": "search",
+          "name": "SC_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/SC_search.db.gz",
+          "sizeBytes": 388735,
+          "sha256": "52bb66541f31077c6a98b9e984555fc19636c49903513ea4577ff37192d30dc8",
+          "unpackedBytes": 1011712
+        }
+      ]
+    },
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "version": "2026-10-02",
+      "bbox": [
+        -88.4839,
+        29.9549,
+        -84.8834,
+        35.0087
+      ],
+      "downloadBytes": 312087227,
+      "installedBytes": 556801214,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AL_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AL_map.pmtiles",
+          "sizeBytes": 164710094,
+          "sha256": "13a8be84eb7cbf25058da25cec43e145d34632d7607bac71ad6b3cfd6f581646",
+          "unpackedBytes": 164710094
+        },
+        {
+          "kind": "routing",
+          "name": "AL_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AL_routing.tar.gz",
+          "sizeBytes": 146969235,
+          "sha256": "52529d4af814a38d7fd5c089d1d984d694fd5dfac341d1aca55f342538d4e7a3",
+          "unpackedBytes": 391038448
+        },
+        {
+          "kind": "search",
+          "name": "AL_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AL_search.db.gz",
+          "sizeBytes": 407898,
+          "sha256": "01a5b4533b487200454bf011724362b80fd275d0a8e40b5f995bdb005dd7b7d1",
+          "unpackedBytes": 1052672
+        }
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "version": "2026-10-02",
+      "bbox": [
+        -91.6586,
+        30.0417,
+        -88.0929,
+        35.0005
+      ],
+      "downloadBytes": 187446072,
+      "installedBytes": 362066572,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MS_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MS_map.pmtiles",
+          "sizeBytes": 88642812,
+          "sha256": "b30953dcd22487573a7210ea0ef535d05555fc5687664cea28877f4b417b3c91",
+          "unpackedBytes": 88642812
+        },
+        {
+          "kind": "routing",
+          "name": "MS_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MS_routing.tar.gz",
+          "sizeBytes": 98588654,
+          "sha256": "ffe65fe79106603b9fe508dadb08e416d908208c762010927fd621be73dd02f6",
+          "unpackedBytes": 272866704
+        },
+        {
+          "kind": "search",
+          "name": "MS_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MS_search.db.gz",
+          "sizeBytes": 214606,
+          "sha256": "7618bd2d539b36e8e611d7c716b3829d8061ffe191e469fa453db6f386f3cd43",
+          "unpackedBytes": 557056
+        }
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "version": "2026-10-02",
+      "bbox": [
+        -94.6222,
+        33.0038,
+        -89.6399,
+        36.5159
+      ],
+      "downloadBytes": 228699843,
+      "installedBytes": 430116926,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AR_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AR_map.pmtiles",
+          "sizeBytes": 110858846,
+          "sha256": "b2373a279510d2234b61832e9675f7f1306f76ee97dc20e4f9a816d6344cab04",
+          "unpackedBytes": 110858846
+        },
+        {
+          "kind": "routing",
+          "name": "AR_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AR_routing.tar.gz",
+          "sizeBytes": 117589603,
+          "sha256": "b14b63b98dd014b6120b76898101d0dee99636f2dd86b855ae8195fa96c02643",
+          "unpackedBytes": 318606816
+        },
+        {
+          "kind": "search",
+          "name": "AR_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/AR_search.db.gz",
+          "sizeBytes": 251394,
+          "sha256": "78b43fadf67dc8cc9274beeac7a2549451ed1823525ca8673b56ce0e11f96765",
+          "unpackedBytes": 651264
+        }
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "version": "2026-10-02",
+      "bbox": [
+        -103.0078,
+        33.6135,
+        -94.4299,
+        37.0053
+      ],
+      "downloadBytes": 311123410,
+      "installedBytes": 602177598,
+      "files": [
+        {
+          "kind": "map",
+          "name": "OK_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/OK_map.pmtiles",
+          "sizeBytes": 151727806,
+          "sha256": "599791a5887827af5f21f7b5298063c89e0ed352156e1fc415bcd60b64a97edc",
+          "unpackedBytes": 151727806
+        },
+        {
+          "kind": "routing",
+          "name": "OK_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/OK_routing.tar.gz",
+          "sizeBytes": 159216843,
+          "sha256": "1ab836a3d467fd0873658a76e4062776e49dd56f7113aab25466d18e6c3900f4",
+          "unpackedBytes": 449982848
+        },
+        {
+          "kind": "search",
+          "name": "OK_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/OK_search.db.gz",
+          "sizeBytes": 178761,
+          "sha256": "c19db42e4ec625a0cc7e924053629f798c9fe1b772c5666a7e86359f80b28183",
+          "unpackedBytes": 466944
+        }
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "version": "2026-10-02",
+      "bbox": [
+        -106.6494,
+        25.6955,
+        -93.019,
+        36.5215
+      ],
+      "downloadBytes": 1181259829,
+      "installedBytes": 2265626031,
+      "files": [
+        {
+          "kind": "map",
+          "name": "TX_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TX_map.pmtiles",
+          "sizeBytes": 588237511,
+          "sha256": "28a28bd1435371b62d2080be43ce8a5520a0c0a49911bb8b3e609c6549cbee15",
+          "unpackedBytes": 588237511
+        },
+        {
+          "kind": "routing",
+          "name": "TX_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TX_routing.tar.gz",
+          "sizeBytes": 592184054,
+          "sha256": "ee8b5d53f6c342de22da91d2f9f49114a66ff200223bf31806485cb8592d5eee",
+          "unpackedBytes": 1675254504
+        },
+        {
+          "kind": "search",
+          "name": "TX_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/TX_search.db.gz",
+          "sizeBytes": 838264,
+          "sha256": "672569bc6c5f8d865865e8647d8ba6afa41e4af3c12cba58d49dbf6370ef40a9",
+          "unpackedBytes": 2134016
+        }
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "version": "2026-10-02",
+      "bbox": [
+        -102.0535,
+        36.9914,
+        -94.5893,
+        40.0037
+      ],
+      "downloadBytes": 278911066,
+      "installedBytes": 555491250,
+      "files": [
+        {
+          "kind": "map",
+          "name": "KS_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KS_map.pmtiles",
+          "sizeBytes": 134492362,
+          "sha256": "9a3cad23229876d7c586bd9211f4828e111be7921c097c105796f29cc0242486",
+          "unpackedBytes": 134492362
+        },
+        {
+          "kind": "routing",
+          "name": "KS_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KS_routing.tar.gz",
+          "sizeBytes": 144284912,
+          "sha256": "877b56b5fb4b2d1f243fc9495019643e7568f74b57c78cde7287a2e502ffd099",
+          "unpackedBytes": 420642536
+        },
+        {
+          "kind": "search",
+          "name": "KS_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KS_search.db.gz",
+          "sizeBytes": 133792,
+          "sha256": "0cdc9807ac352d269aa8769a1b5d88d5c3809c87266310c425b1500498efced7",
+          "unpackedBytes": 356352
+        }
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "version": "2026-10-02",
+      "bbox": [
+        -95.7775,
+        35.9947,
+        -89.0891,
+        40.6166
+      ],
+      "downloadBytes": 427613778,
+      "installedBytes": 820740039,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MO_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MO_map.pmtiles",
+          "sizeBytes": 205929423,
+          "sha256": "9f9f628be7188a11a0195e4a35365a1bf06a2c78134c6183c69662eeadb01622",
+          "unpackedBytes": 205929423
+        },
+        {
+          "kind": "routing",
+          "name": "MO_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MO_routing.tar.gz",
+          "sizeBytes": 221388158,
+          "sha256": "5582e028093543b02d4a5d8d89350d4f5e9d1096b493d3396f4ef22af41e0615",
+          "unpackedBytes": 614061048
+        },
+        {
+          "kind": "search",
+          "name": "MO_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/MO_search.db.gz",
+          "sizeBytes": 296197,
+          "sha256": "ae19ec056d86817e218c1df03d104ec9d4ea1ce49b7de4fc767d41f9d240f53f",
+          "unpackedBytes": 749568
+        }
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "version": "2026-10-02",
+      "bbox": [
+        -89.5812,
+        36.4933,
+        -81.9551,
+        39.1483
+      ],
+      "downloadBytes": 272796171,
+      "installedBytes": 506204544,
+      "files": [
+        {
+          "kind": "map",
+          "name": "KY_map.pmtiles",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KY_map.pmtiles",
+          "sizeBytes": 129631760,
+          "sha256": "db3091c697cc9fa1028139b50a14b927f149ae43956525a332bbe34e1f38976a",
+          "unpackedBytes": 129631760
+        },
+        {
+          "kind": "routing",
+          "name": "KY_routing.tar.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KY_routing.tar.gz",
+          "sizeBytes": 142856760,
+          "sha256": "df0ade44f82b353bc29fb672c86d948bd532c0e568d62edf53e3747e17c3f837",
+          "unpackedBytes": 375782256
+        },
+        {
+          "kind": "search",
+          "name": "KY_search.db.gz",
+          "url": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/maps-2026-10-02/KY_search.db.gz",
+          "sizeBytes": 307651,
+          "sha256": "e9f812d3ec577a1b8d258ea83beab4189c1f429dd02081d3755393fe02c8599e",
+          "unpackedBytes": 790528
+        }
+      ]
+    }
+  ]
+}
