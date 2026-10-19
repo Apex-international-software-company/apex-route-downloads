@@ -1,0 +1,7 @@
+{
+  "versionName": "1.0.0-rc35",
+  "releaseNotes": "v1.0.0-rc35: Full live phone walkthrough polish — sub-filter chips for Stores/Medical/Campgrounds/Food, refined category noise filters, and 4.5km addressless duplicate deduplication.",
+  "versionCode": 35,
+  "sha256": "2631C91486CB3A486EF5433C93FA0802ECA66A4667E0B332BD367AE2B6737705",
+  "apkUrl": "https://github.com/bigtwighomes/apex-route-downloads/releases/download/v1.0.0-rc35/apex-route.apk"
+}
