@@ -1,0 +1,1210 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "us-states-2026-11-24-v2",
+  "generatedAt": "2026-11-25T01:07:45Z",
+  "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut",
+  "minAppVersionCode": 54,
+  "attribution": "\u00a9 OpenStreetMap contributors (ODbL), \u00a9 OpenMapTiles",
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "version": "2026-10-02",
+      "bbox": [
+        -88.4839,
+        29.9549,
+        -84.8834,
+        35.0087
+      ],
+      "downloadBytes": 312087227,
+      "installedBytes": 556801214,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AL_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AL_map.pmtiles",
+          "sizeBytes": 164710094,
+          "sha256": "13a8be84eb7cbf25058da25cec43e145d34632d7607bac71ad6b3cfd6f581646",
+          "unpackedBytes": 164710094
+        },
+        {
+          "kind": "routing",
+          "name": "AL_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AL_routing.tar.gz",
+          "sizeBytes": 146969235,
+          "sha256": "52529d4af814a38d7fd5c089d1d984d694fd5dfac341d1aca55f342538d4e7a3",
+          "unpackedBytes": 391038448
+        },
+        {
+          "kind": "search",
+          "name": "AL_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AL_search.db.gz",
+          "sizeBytes": 407898,
+          "sha256": "01a5b4533b487200454bf011724362b80fd275d0a8e40b5f995bdb005dd7b7d1",
+          "unpackedBytes": 1052672
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "version": "2026-10-02",
+      "bbox": [
+        -114.8224,
+        31.3266,
+        -109.0437,
+        37.006
+      ],
+      "downloadBytes": 444906452,
+      "installedBytes": 761420450,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AZ_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AZ_map.pmtiles",
+          "sizeBytes": 265724546,
+          "sha256": "09cc287af30cf8a65d7740cf89b1e8b95a7e466f05d0afc22ae12feebeedce9b",
+          "unpackedBytes": 265724546
+        },
+        {
+          "kind": "routing",
+          "name": "AZ_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AZ_routing.tar.gz",
+          "sizeBytes": 178971051,
+          "sha256": "58640a75b41be819e4966a14279bff57d4f7e2e0ee061e89e2d7026fc1414b0d",
+          "unpackedBytes": 495147040
+        },
+        {
+          "kind": "search",
+          "name": "AZ_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AZ_search.db.gz",
+          "sizeBytes": 210855,
+          "sha256": "5f28da27422e5472e38568fe9babbf80217c3afd5bffbb0325cbb263bb7ccb3d",
+          "unpackedBytes": 548864
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "version": "2026-10-02",
+      "bbox": [
+        -94.6222,
+        33.0038,
+        -89.6399,
+        36.5159
+      ],
+      "downloadBytes": 228699843,
+      "installedBytes": 430116926,
+      "files": [
+        {
+          "kind": "map",
+          "name": "AR_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AR_map.pmtiles",
+          "sizeBytes": 110858846,
+          "sha256": "b2373a279510d2234b61832e9675f7f1306f76ee97dc20e4f9a816d6344cab04",
+          "unpackedBytes": 110858846
+        },
+        {
+          "kind": "routing",
+          "name": "AR_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AR_routing.tar.gz",
+          "sizeBytes": 117589603,
+          "sha256": "b14b63b98dd014b6120b76898101d0dee99636f2dd86b855ae8195fa96c02643",
+          "unpackedBytes": 318606816
+        },
+        {
+          "kind": "search",
+          "name": "AR_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/AR_search.db.gz",
+          "sizeBytes": 251394,
+          "sha256": "78b43fadf67dc8cc9274beeac7a2549451ed1823525ca8673b56ce0e11f96765",
+          "unpackedBytes": 651264
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "version": "2026-10-02",
+      "bbox": [
+        -109.0631,
+        36.9894,
+        -102.0355,
+        41.0039
+      ],
+      "downloadBytes": 504198785,
+      "installedBytes": 834990973,
+      "files": [
+        {
+          "kind": "map",
+          "name": "CO_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/CO_map.pmtiles",
+          "sizeBytes": 311891605,
+          "sha256": "073e8aefc43424743266dbcc91f4b556ea0d359955aab636030f4537a478a8ae",
+          "unpackedBytes": 311891605
+        },
+        {
+          "kind": "routing",
+          "name": "CO_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/CO_routing.tar.gz",
+          "sizeBytes": 192082704,
+          "sha256": "865f464c12ce4a03cc0c2756e29fd8ff02e00d445f225d4b413676ab9fd4721e",
+          "unpackedBytes": 522513640
+        },
+        {
+          "kind": "search",
+          "name": "CO_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/CO_search.db.gz",
+          "sizeBytes": 224476,
+          "sha256": "d6558427b0001574757c9ec3f1520f29241ef95dd183ff2d0ee2988fb528719c",
+          "unpackedBytes": 585728
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "version": "2026-10-24",
+      "bbox": [
+        -73.7289,
+        40.964,
+        -71.7853,
+        42.0523
+      ],
+      "downloadBytes": 275868671,
+      "installedBytes": 576129085,
+      "files": [
+        {
+          "kind": "map",
+          "name": "CT_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/CT_map.pmtiles",
+          "sizeBytes": 103319021,
+          "sha256": "49ede6f4d874f2d2f4c023d8aa571b83ecd2d1ffafa22b9494b9e1f7067bd129",
+          "unpackedBytes": 103319021
+        },
+        {
+          "kind": "routing",
+          "name": "CT_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/CT_routing.tar.gz",
+          "sizeBytes": 172360107,
+          "sha256": "84334c2c52b9be7a9a5c38d90f0aecd3f471a10d45d2759b44b6c2c9e962f036",
+          "unpackedBytes": 472293968
+        },
+        {
+          "kind": "search",
+          "name": "CT_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/CT_search.db.gz",
+          "sizeBytes": 189543,
+          "sha256": "167035b9513acfca6fcdac056714fc04609ac7344e3ae1722473e43694d4a813",
+          "unpackedBytes": 516096
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "version": "2026-10-02",
+      "bbox": [
+        -85.6068,
+        30.3536,
+        -80.7431,
+        35.0036
+      ],
+      "downloadBytes": 522084414,
+      "installedBytes": 972689704,
+      "files": [
+        {
+          "kind": "map",
+          "name": "GA_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/GA_map.pmtiles",
+          "sizeBytes": 261314240,
+          "sha256": "3511db31ca849f2ddfe10a919549054f610f36bdcd4438e278b72c7ca43f730a",
+          "unpackedBytes": 261314240
+        },
+        {
+          "kind": "routing",
+          "name": "GA_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/GA_routing.tar.gz",
+          "sizeBytes": 260267770,
+          "sha256": "79969c48e1e47a7f7393b0694ca5f3bbdbace45049df6685cb310b0df84d1042",
+          "unpackedBytes": 710077032
+        },
+        {
+          "kind": "search",
+          "name": "GA_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/GA_search.db.gz",
+          "sizeBytes": 502404,
+          "sha256": "c62fedeee00807d290822eb13e57abe3679f7f9f9ba575516a4a3ed0a537fce8",
+          "unpackedBytes": 1298432
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "version": "2026-10-24",
+      "routingBuildId": "us-2026-10-24-il-state",
+      "bbox": [
+        -91.5131,
+        36.9703,
+        -87.0199,
+        42.5083
+      ],
+      "downloadBytes": 618504304,
+      "installedBytes": 1317092164,
+      "files": [
+        {
+          "kind": "map",
+          "name": "IL_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IL_map.pmtiles",
+          "sizeBytes": 269972692,
+          "sha256": "0108ca44a45f6ecac18653f051e8af89b21f8e1494b00e5a2ea2b1926c61cffb",
+          "unpackedBytes": 269972692
+        },
+        {
+          "kind": "routing",
+          "name": "IL_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IL_routing.tar.gz",
+          "sizeBytes": 347843403,
+          "sha256": "f7e0fa855a2db0d6731d34fe1ad45596f6563414c55539e4affe1c154e4e5342",
+          "unpackedBytes": 1045333616
+        },
+        {
+          "kind": "search",
+          "name": "IL_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IL_search.db.gz",
+          "sizeBytes": 688209,
+          "sha256": "e3bcef93611cd88af55ccd0c265d9f61258dff0a9fa648ad9cb2b5f79280fb5b",
+          "unpackedBytes": 1785856
+        }
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "version": "2026-10-24",
+      "routingBuildId": "us-2026-10-24-ia-state",
+      "bbox": [
+        -96.6397,
+        40.3754,
+        -90.1401,
+        43.5012
+      ],
+      "downloadBytes": 290954853,
+      "installedBytes": 572249856,
+      "files": [
+        {
+          "kind": "map",
+          "name": "IA_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IA_map.pmtiles",
+          "sizeBytes": 139859728,
+          "sha256": "4a811f40214fb2574413cae06101a6c03168f05596b4dd3e0b90c1f237365e8d",
+          "unpackedBytes": 139859728
+        },
+        {
+          "kind": "routing",
+          "name": "IA_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IA_routing.tar.gz",
+          "sizeBytes": 150812984,
+          "sha256": "5529358cc68a34ac5eb7eb57c6e7d592b5939d528460447648350a36d4bb1dfa",
+          "unpackedBytes": 431628272
+        },
+        {
+          "kind": "search",
+          "name": "IA_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/IA_search.db.gz",
+          "sizeBytes": 282141,
+          "sha256": "f0c041f252bc498569e8cc5d59a6a3ddab6dfc3b1dddfffd6d140937ac6bbd5d",
+          "unpackedBytes": 761856
+        }
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "version": "2026-10-02",
+      "bbox": [
+        -102.0535,
+        36.9914,
+        -94.5893,
+        40.0037
+      ],
+      "downloadBytes": 278911066,
+      "installedBytes": 555491250,
+      "files": [
+        {
+          "kind": "map",
+          "name": "KS_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KS_map.pmtiles",
+          "sizeBytes": 134492362,
+          "sha256": "9a3cad23229876d7c586bd9211f4828e111be7921c097c105796f29cc0242486",
+          "unpackedBytes": 134492362
+        },
+        {
+          "kind": "routing",
+          "name": "KS_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KS_routing.tar.gz",
+          "sizeBytes": 144284912,
+          "sha256": "877b56b5fb4b2d1f243fc9495019643e7568f74b57c78cde7287a2e502ffd099",
+          "unpackedBytes": 420642536
+        },
+        {
+          "kind": "search",
+          "name": "KS_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KS_search.db.gz",
+          "sizeBytes": 133792,
+          "sha256": "0cdc9807ac352d269aa8769a1b5d88d5c3809c87266310c425b1500498efced7",
+          "unpackedBytes": 356352
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "version": "2026-10-02",
+      "bbox": [
+        -89.5812,
+        36.4933,
+        -81.9551,
+        39.1483
+      ],
+      "downloadBytes": 272796171,
+      "installedBytes": 506204544,
+      "files": [
+        {
+          "kind": "map",
+          "name": "KY_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KY_map.pmtiles",
+          "sizeBytes": 129631760,
+          "sha256": "db3091c697cc9fa1028139b50a14b927f149ae43956525a332bbe34e1f38976a",
+          "unpackedBytes": 129631760
+        },
+        {
+          "kind": "routing",
+          "name": "KY_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KY_routing.tar.gz",
+          "sizeBytes": 142856760,
+          "sha256": "df0ade44f82b353bc29fb672c86d948bd532c0e568d62edf53e3747e17c3f837",
+          "unpackedBytes": 375782256
+        },
+        {
+          "kind": "search",
+          "name": "KY_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/KY_search.db.gz",
+          "sizeBytes": 307651,
+          "sha256": "e9f812d3ec577a1b8d258ea83beab4189c1f429dd02081d3755393fe02c8599e",
+          "unpackedBytes": 790528
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "version": "2026-10-24",
+      "bbox": [
+        -71.0889,
+        42.8544,
+        -66.8716,
+        47.4622
+      ],
+      "downloadBytes": 173499937,
+      "installedBytes": 264619732,
+      "files": [
+        {
+          "kind": "map",
+          "name": "ME_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ME_map.pmtiles",
+          "sizeBytes": 114510820,
+          "sha256": "9544995b04844f6bf1165faff77d9f1325d679c51d570705bb0ccc76780220aa",
+          "unpackedBytes": 114510820
+        },
+        {
+          "kind": "routing",
+          "name": "ME_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ME_routing.tar.gz",
+          "sizeBytes": 58747574,
+          "sha256": "247c6331d8cb91d0402baa681d5214a7e5d6d873b721914c9a176070f1297bab",
+          "unpackedBytes": 149449456
+        },
+        {
+          "kind": "search",
+          "name": "ME_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ME_search.db.gz",
+          "sizeBytes": 241543,
+          "sha256": "544f74fb57e3a8aa5be7dfbdf7b0d5ec05b5a3ef0807da30bfdd5151ff2d9277",
+          "unpackedBytes": 659456
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "version": "2026-10-24",
+      "bbox": [
+        -73.511,
+        40.8829,
+        -68.7344,
+        42.8877
+      ],
+      "downloadBytes": 376653958,
+      "installedBytes": 726346395,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MA_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MA_map.pmtiles",
+          "sizeBytes": 174728643,
+          "sha256": "768c8aceed30ce03c03abb994729ef2bf25de8ffdb253e477deec4cf2a3ff33f",
+          "unpackedBytes": 174728643
+        },
+        {
+          "kind": "routing",
+          "name": "MA_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MA_routing.tar.gz",
+          "sizeBytes": 201596596,
+          "sha256": "4492c73862fa503c0d2930da984fb821e3f7a866539519ed57cce3f9c1aff37a",
+          "unpackedBytes": 550753496
+        },
+        {
+          "kind": "search",
+          "name": "MA_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MA_search.db.gz",
+          "sizeBytes": 328719,
+          "sha256": "5531048f056e105591018ff844ee144077d25921a02d24f26fa278b19d5de482",
+          "unpackedBytes": 864256
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "version": "2026-10-24",
+      "routingBuildId": "us-2026-10-24-mn-state",
+      "bbox": [
+        -97.2392,
+        43.4994,
+        -89.4834,
+        49.3844
+      ],
+      "downloadBytes": 476976998,
+      "installedBytes": 818767946,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MN_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MN_map.pmtiles",
+          "sizeBytes": 291484682,
+          "sha256": "fba16f01b6f15712779049286a148570f9db843ac588ca4384f0553905938b4b",
+          "unpackedBytes": 291484682
+        },
+        {
+          "kind": "routing",
+          "name": "MN_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MN_routing.tar.gz",
+          "sizeBytes": 185026940,
+          "sha256": "d280ce8e1315c6158fa52a5f9e5ecdf56f2ba35126cab45554f5a36ba3a1c697",
+          "unpackedBytes": 526070848
+        },
+        {
+          "kind": "search",
+          "name": "MN_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/MN_search.db.gz",
+          "sizeBytes": 465376,
+          "sha256": "94695caa8a1f948779c663daa0cb5c73610672d9bca428ca75c77d907bc5d50e",
+          "unpackedBytes": 1212416
+        }
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "version": "2026-10-02",
+      "bbox": [
+        -91.6586,
+        30.0417,
+        -88.0929,
+        35.0005
+      ],
+      "downloadBytes": 187446072,
+      "installedBytes": 362066572,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MS_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MS_map.pmtiles",
+          "sizeBytes": 88642812,
+          "sha256": "b30953dcd22487573a7210ea0ef535d05555fc5687664cea28877f4b417b3c91",
+          "unpackedBytes": 88642812
+        },
+        {
+          "kind": "routing",
+          "name": "MS_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MS_routing.tar.gz",
+          "sizeBytes": 98588654,
+          "sha256": "ffe65fe79106603b9fe508dadb08e416d908208c762010927fd621be73dd02f6",
+          "unpackedBytes": 272866704
+        },
+        {
+          "kind": "search",
+          "name": "MS_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MS_search.db.gz",
+          "sizeBytes": 214606,
+          "sha256": "7618bd2d539b36e8e611d7c716b3829d8061ffe191e469fa453db6f386f3cd43",
+          "unpackedBytes": 557056
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "version": "2026-10-02",
+      "bbox": [
+        -95.7775,
+        35.9947,
+        -89.0891,
+        40.6166
+      ],
+      "downloadBytes": 427613778,
+      "installedBytes": 820740039,
+      "files": [
+        {
+          "kind": "map",
+          "name": "MO_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MO_map.pmtiles",
+          "sizeBytes": 205929423,
+          "sha256": "9f9f628be7188a11a0195e4a35365a1bf06a2c78134c6183c69662eeadb01622",
+          "unpackedBytes": 205929423
+        },
+        {
+          "kind": "routing",
+          "name": "MO_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MO_routing.tar.gz",
+          "sizeBytes": 221388158,
+          "sha256": "5582e028093543b02d4a5d8d89350d4f5e9d1096b493d3396f4ef22af41e0615",
+          "unpackedBytes": 614061048
+        },
+        {
+          "kind": "search",
+          "name": "MO_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/MO_search.db.gz",
+          "sizeBytes": 296197,
+          "sha256": "ae19ec056d86817e218c1df03d104ec9d4ea1ce49b7de4fc767d41f9d240f53f",
+          "unpackedBytes": 749568
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "version": "2026-10-24",
+      "bbox": [
+        -72.5588,
+        42.6967,
+        -70.4869,
+        45.31
+      ],
+      "downloadBytes": 164723218,
+      "installedBytes": 335918312,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NH_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NH_map.pmtiles",
+          "sizeBytes": 62196792,
+          "sha256": "430e37bb634e9edcfd300645bd1a357614bd99d7b1f826a6cedbfaedd5684a7e",
+          "unpackedBytes": 62196792
+        },
+        {
+          "kind": "routing",
+          "name": "NH_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NH_routing.tar.gz",
+          "sizeBytes": 102387548,
+          "sha256": "430f84dd4635bb9c0ab68114cd084f00040b00e93ddb2506e16036e9841b1fe5",
+          "unpackedBytes": 273340592
+        },
+        {
+          "kind": "search",
+          "name": "NH_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NH_search.db.gz",
+          "sizeBytes": 138878,
+          "sha256": "b6e24bb87803b3f6deaafa5a0f08f4d127732be7f554fbf1ebbf378f29aaa6b2",
+          "unpackedBytes": 380928
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "version": "2026-10-24",
+      "bbox": [
+        -75.5788,
+        38.7543,
+        -73.679,
+        41.3581
+      ],
+      "downloadBytes": 384734200,
+      "installedBytes": 875560828,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NJ_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NJ_map.pmtiles",
+          "sizeBytes": 126105740,
+          "sha256": "aa5f157bb5c562c5396cb3d28dd92c34ca507a0af0e8cae0c00056c8007d1282",
+          "unpackedBytes": 126105740
+        },
+        {
+          "kind": "routing",
+          "name": "NJ_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NJ_routing.tar.gz",
+          "sizeBytes": 258233596,
+          "sha256": "dbd46923515bc93cb3409b7b228c64b6d52cbcb3558e1dba9061375cca2c2c3d",
+          "unpackedBytes": 748422896
+        },
+        {
+          "kind": "search",
+          "name": "NJ_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NJ_search.db.gz",
+          "sizeBytes": 394864,
+          "sha256": "40173229f86d527e3d2022bf10990e20c1b47d920ae0115351d948e3bc3a8608",
+          "unpackedBytes": 1032192
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "version": "2026-10-02",
+      "bbox": [
+        -109.0504,
+        31.3304,
+        -102.9979,
+        37.0018
+      ],
+      "downloadBytes": 263465227,
+      "installedBytes": 443308734,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NM_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NM_map.pmtiles",
+          "sizeBytes": 150995966,
+          "sha256": "102d2ca50102fc3d36090dccca8e4963388d27fe989656f8f65a4532654d8a4a",
+          "unpackedBytes": 150995966
+        },
+        {
+          "kind": "routing",
+          "name": "NM_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NM_routing.tar.gz",
+          "sizeBytes": 112306803,
+          "sha256": "1ba72b4c028b31a472ece4aca5f4565ea958a98404a1d4a429be46af87acb230",
+          "unpackedBytes": 291882688
+        },
+        {
+          "kind": "search",
+          "name": "NM_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NM_search.db.gz",
+          "sizeBytes": 162458,
+          "sha256": "bc31a926ccf70125815c6e62330230d49bea4ac017d9c9f4e3aeaac827c44d64",
+          "unpackedBytes": 430080
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "version": "2026-10-24",
+      "bbox": [
+        -79.7648,
+        40.4392,
+        -71.6608,
+        45.0177
+      ],
+      "downloadBytes": 730842648,
+      "installedBytes": 1422900702,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NY_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NY_map.pmtiles",
+          "sizeBytes": 350602606,
+          "sha256": "db2b189f565e5137a7a03edcc965e76bb7f7225fc7ae0ff03a8e1883fc197f16",
+          "unpackedBytes": 350602606
+        },
+        {
+          "kind": "routing",
+          "name": "NY_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NY_routing.tar.gz",
+          "sizeBytes": 379447076,
+          "sha256": "0b76e9cba22ffa6a39a480fb2acbd15bf9a79b1b0b594fa3e56e987f830aabdb",
+          "unpackedBytes": 1070278768
+        },
+        {
+          "kind": "search",
+          "name": "NY_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/NY_search.db.gz",
+          "sizeBytes": 792966,
+          "sha256": "4e3e422e893beaf0307546cde5131039fd85e9509abb2451449b039508220d42",
+          "unpackedBytes": 2019328
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "version": "2026-10-02",
+      "bbox": [
+        -84.3222,
+        33.1299,
+        -73.7396,
+        36.5898
+      ],
+      "downloadBytes": 648921288,
+      "installedBytes": 1208584373,
+      "files": [
+        {
+          "kind": "map",
+          "name": "NC_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NC_map.pmtiles",
+          "sizeBytes": 325339093,
+          "sha256": "999026d8c83fe511e93b86fed3ad537eda23091f8678f89c715f17e27ff69bef",
+          "unpackedBytes": 325339093
+        },
+        {
+          "kind": "routing",
+          "name": "NC_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NC_routing.tar.gz",
+          "sizeBytes": 323069201,
+          "sha256": "956bc7ccc5b311af019fe7f5bb27cdc4d554cc700f6aceb5bd14cb0b741d0275",
+          "unpackedBytes": 881938656
+        },
+        {
+          "kind": "search",
+          "name": "NC_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/NC_search.db.gz",
+          "sizeBytes": 512994,
+          "sha256": "0866c7c5994edc3edce00185d2be28d2a0de742a22bdcab9b8e24ba07c5b45a0",
+          "unpackedBytes": 1306624
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "version": "2026-10-24",
+      "routingBuildId": "us-2026-10-24-nd-state",
+      "bbox": [
+        -104.0489,
+        45.935,
+        -96.5545,
+        49.0006
+      ],
+      "downloadBytes": 168328639,
+      "installedBytes": 263808791,
+      "files": [
+        {
+          "kind": "map",
+          "name": "ND_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ND_map.pmtiles",
+          "sizeBytes": 109384767,
+          "sha256": "54d56979ea5b3637665ed803a2a52181a8b85691308505137a7513f0ac71f9ea",
+          "unpackedBytes": 109384767
+        },
+        {
+          "kind": "routing",
+          "name": "ND_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ND_routing.tar.gz",
+          "sizeBytes": 58838798,
+          "sha256": "12bb677918142e894c05251b60cbda4e7c037209ac1286255d63807a8d3cc9b7",
+          "unpackedBytes": 154133208
+        },
+        {
+          "kind": "search",
+          "name": "ND_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/ND_search.db.gz",
+          "sizeBytes": 105074,
+          "sha256": "70ed145c75bcf2f868e88c023c91341564ca0d44a8ee894e4bbd6a40be5740ba",
+          "unpackedBytes": 290816
+        }
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "version": "2026-10-02",
+      "bbox": [
+        -103.0078,
+        33.6135,
+        -94.4299,
+        37.0053
+      ],
+      "downloadBytes": 311123410,
+      "installedBytes": 602177598,
+      "files": [
+        {
+          "kind": "map",
+          "name": "OK_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/OK_map.pmtiles",
+          "sizeBytes": 151727806,
+          "sha256": "599791a5887827af5f21f7b5298063c89e0ed352156e1fc415bcd60b64a97edc",
+          "unpackedBytes": 151727806
+        },
+        {
+          "kind": "routing",
+          "name": "OK_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/OK_routing.tar.gz",
+          "sizeBytes": 159216843,
+          "sha256": "1ab836a3d467fd0873658a76e4062776e49dd56f7113aab25466d18e6c3900f4",
+          "unpackedBytes": 449982848
+        },
+        {
+          "kind": "search",
+          "name": "OK_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/OK_search.db.gz",
+          "sizeBytes": 178761,
+          "sha256": "c19db42e4ec625a0cc7e924053629f798c9fe1b772c5666a7e86359f80b28183",
+          "unpackedBytes": 466944
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "version": "2026-10-24",
+      "bbox": [
+        -80.5228,
+        39.6644,
+        -74.6876,
+        42.5165
+      ],
+      "downloadBytes": 697681766,
+      "installedBytes": 1402629829,
+      "files": [
+        {
+          "kind": "map",
+          "name": "PA_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/PA_map.pmtiles",
+          "sizeBytes": 293887285,
+          "sha256": "0626784a0b1a7bcd24ee9639aea7915cf6dd16218764db21a016e3f926197047",
+          "unpackedBytes": 293887285
+        },
+        {
+          "kind": "routing",
+          "name": "PA_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/PA_routing.tar.gz",
+          "sizeBytes": 402703511,
+          "sha256": "03e8c6454a5bd058f37359835bc0211b362353ac82f3b46411f31750e3c554b7",
+          "unpackedBytes": 1105977744
+        },
+        {
+          "kind": "search",
+          "name": "PA_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/PA_search.db.gz",
+          "sizeBytes": 1090970,
+          "sha256": "e3f00d13d3a525561b3b851f927e3483e5d03f097da88b5ffb205636e423d1d6",
+          "unpackedBytes": 2764800
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "version": "2026-10-24",
+      "bbox": [
+        -71.9146,
+        40.9992,
+        -71.0637,
+        42.0194
+      ],
+      "downloadBytes": 87060849,
+      "installedBytes": 178119293,
+      "files": [
+        {
+          "kind": "map",
+          "name": "RI_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/RI_map.pmtiles",
+          "sizeBytes": 34234645,
+          "sha256": "5994a7acf03bfa18d08ae3bdd56fe3d215d6b27191c181ebb77f460d936608d7",
+          "unpackedBytes": 34234645
+        },
+        {
+          "kind": "routing",
+          "name": "RI_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/RI_routing.tar.gz",
+          "sizeBytes": 52780225,
+          "sha256": "1ab645ffea5ce06a8b271c24d1b6a0801df010054c5ac197c7268bfa9c8e7def",
+          "unpackedBytes": 143741288
+        },
+        {
+          "kind": "search",
+          "name": "RI_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/RI_search.db.gz",
+          "sizeBytes": 45979,
+          "sha256": "21e128dfbb48ed381c081c4cdf1be4638ded52a92038e950f3bf7efa303b3441",
+          "unpackedBytes": 143360
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "version": "2026-10-02",
+      "bbox": [
+        -83.3562,
+        32.0297,
+        -78.5187,
+        35.2184
+      ],
+      "downloadBytes": 339812342,
+      "installedBytes": 670478854,
+      "files": [
+        {
+          "kind": "map",
+          "name": "SC_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/SC_map.pmtiles",
+          "sizeBytes": 152048894,
+          "sha256": "20a0863f787dbcb6742c1cd04c8f856057f602d2c8063125e04626081b6bdfe5",
+          "unpackedBytes": 152048894
+        },
+        {
+          "kind": "routing",
+          "name": "SC_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/SC_routing.tar.gz",
+          "sizeBytes": 187374713,
+          "sha256": "4400a5fa65eb194311088dc3acbba5f462cb393a61d82d73672f3b2b30579136",
+          "unpackedBytes": 517418248
+        },
+        {
+          "kind": "search",
+          "name": "SC_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/SC_search.db.gz",
+          "sizeBytes": 388735,
+          "sha256": "52bb66541f31077c6a98b9e984555fc19636c49903513ea4577ff37192d30dc8",
+          "unpackedBytes": 1011712
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "version": "2026-10-02",
+      "bbox": [
+        -90.3133,
+        34.9827,
+        -81.6442,
+        36.6808
+      ],
+      "downloadBytes": 378750613,
+      "installedBytes": 748138156,
+      "files": [
+        {
+          "kind": "map",
+          "name": "TN_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TN_map.pmtiles",
+          "sizeBytes": 166988204,
+          "sha256": "3cce55aed08c824c600ffb4defa9fe44660546265972a95dc8e721c7fd93fbb4",
+          "unpackedBytes": 166988204
+        },
+        {
+          "kind": "routing",
+          "name": "TN_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TN_routing.tar.gz",
+          "sizeBytes": 211302458,
+          "sha256": "5c56a25f77b395a2e9434453cf31c6b493e9e13191effdb9a00addb48cc5da82",
+          "unpackedBytes": 579962112
+        },
+        {
+          "kind": "search",
+          "name": "TN_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TN_search.db.gz",
+          "sizeBytes": 459951,
+          "sha256": "dd94588aa065d74d23895eea93f2c80e2b103ed62ded2c93cf5603ff5c16fdc6",
+          "unpackedBytes": 1187840
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "version": "2026-10-02",
+      "bbox": [
+        -106.6494,
+        25.6955,
+        -93.019,
+        36.5215
+      ],
+      "downloadBytes": 1181259829,
+      "installedBytes": 2265626031,
+      "files": [
+        {
+          "kind": "map",
+          "name": "TX_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TX_map.pmtiles",
+          "sizeBytes": 588237511,
+          "sha256": "28a28bd1435371b62d2080be43ce8a5520a0c0a49911bb8b3e609c6549cbee15",
+          "unpackedBytes": 588237511
+        },
+        {
+          "kind": "routing",
+          "name": "TX_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TX_routing.tar.gz",
+          "sizeBytes": 592184054,
+          "sha256": "ee8b5d53f6c342de22da91d2f9f49114a66ff200223bf31806485cb8592d5eee",
+          "unpackedBytes": 1675254504
+        },
+        {
+          "kind": "search",
+          "name": "TX_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/TX_search.db.gz",
+          "sizeBytes": 838264,
+          "sha256": "672569bc6c5f8d865865e8647d8ba6afa41e4af3c12cba58d49dbf6370ef40a9",
+          "unpackedBytes": 2134016
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "version": "2026-10-02",
+      "bbox": [
+        -114.0556,
+        36.9963,
+        -109.0394,
+        42.0032
+      ],
+      "downloadBytes": 295341865,
+      "installedBytes": 488546587,
+      "files": [
+        {
+          "kind": "map",
+          "name": "UT_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/UT_map.pmtiles",
+          "sizeBytes": 183432491,
+          "sha256": "e97cc439af4a2bc0804718d30ded3c401917607a34fcfd6b0460a309a4c9479c",
+          "unpackedBytes": 183432491
+        },
+        {
+          "kind": "routing",
+          "name": "UT_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/UT_routing.tar.gz",
+          "sizeBytes": 111609151,
+          "sha256": "0d8f5a774ef758681003e1ad628cd8c1aa6c8219ea05fbf8fa38c1c5a80c855f",
+          "unpackedBytes": 304298992
+        },
+        {
+          "kind": "search",
+          "name": "UT_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/maps-2026-10-02/UT_search.db.gz",
+          "sizeBytes": 300223,
+          "sha256": "001686317f5163113c595a310dd7aaa1fb5749e2fb357e996f2430fe50efb17f",
+          "unpackedBytes": 815104
+        }
+      ],
+      "routingBuildId": "us-2026-10-02-al-ar-az-co-ga-ks-ky-mo-ms-nc-nm-ok-sc-tn-tx-ut"
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "version": "2026-10-24",
+      "bbox": [
+        -73.4394,
+        42.725,
+        -71.4648,
+        45.0231
+      ],
+      "downloadBytes": 102996955,
+      "installedBytes": 187873028,
+      "files": [
+        {
+          "kind": "map",
+          "name": "VT_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/VT_map.pmtiles",
+          "sizeBytes": 48782028,
+          "sha256": "25e28dd22289bfe7425af49bb696fed5d821e5c33478a0a943c024f5f94e9d41",
+          "unpackedBytes": 48782028
+        },
+        {
+          "kind": "routing",
+          "name": "VT_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/VT_routing.tar.gz",
+          "sizeBytes": 54100798,
+          "sha256": "0a145796bc6c77b1e420e1cc086c82e923bd37d8783057d192c65b0e777b4d73",
+          "unpackedBytes": 138767416
+        },
+        {
+          "kind": "search",
+          "name": "VT_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/VT_search.db.gz",
+          "sizeBytes": 114129,
+          "sha256": "9cd9eb4a437a1391287c4d25c0ed8ab4eeff2582faa54bca6c3e6632573693b4",
+          "unpackedBytes": 323584
+        }
+      ],
+      "routingBuildId": "us-2026-10-24-l48dc-regional"
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "version": "2026-10-24",
+      "routingBuildId": "us-2026-10-24-wi-state",
+      "bbox": [
+        -92.8894,
+        42.4919,
+        -86.2495,
+        47.3098
+      ],
+      "downloadBytes": 495242281,
+      "installedBytes": 920453344,
+      "files": [
+        {
+          "kind": "map",
+          "name": "WI_map.pmtiles",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/WI_map.pmtiles",
+          "sizeBytes": 267919792,
+          "sha256": "3f7b432fd82800e6fee08291b32f28a1221c69b4ad90b9dc72510fee5b5f9aa3",
+          "unpackedBytes": 267919792
+        },
+        {
+          "kind": "routing",
+          "name": "WI_routing.tar.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/WI_routing.tar.gz",
+          "sizeBytes": 226795688,
+          "sha256": "f97ba9b1fcf5530cb73ab63b91639a9e73d0d53ca9cce52f92535109fcb045ff",
+          "unpackedBytes": 651190064
+        },
+        {
+          "kind": "search",
+          "name": "WI_search.db.gz",
+          "url": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/l48-staging-20261025/WI_search.db.gz",
+          "sizeBytes": 526801,
+          "sha256": "467dbeea9da504380ad2e85795bc0eaa3cb6f818d637b18fc16d503b79cce9d0",
+          "unpackedBytes": 1343488
+        }
+      ]
+    }
+  ]
+}
