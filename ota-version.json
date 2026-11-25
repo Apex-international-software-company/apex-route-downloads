@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.0-rc58",
-  "versionCode": 58,
-  "sha256": "DD33E25A6091DE67BEC2D3944796378D1D7D19C4CCE5B43121C8A738BCB374E0",
-  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc58/apex-route-v1.0.0-rc58.apk",
-  "releaseNotes": "v1.0.0-rc58: Real toggle switches for all map overlays, all 42 US BDR trails pre-loaded automatically, cleaner Motorcycle Riding Style & BDR picker, and 1-tap Region / All-US Offline State Maps."
+  "versionName": "1.0.0-rc59",
+  "versionCode": 59,
+  "sha256": "30FFF8EC3D3CB79A85300BBBD97EF9B06225D73EA05596021E8F55CE668A96EC",
+  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc59/apex-route-v1.0.0-rc59.apk",
+  "releaseNotes": "v1.0.0-rc59: Full 50 US States + DC offline maps (including Alaska & Hawaii), built-in Alaska Backcountry trails (Dalton Hwy, Denali Hwy, Wrangell-St. Elias), Settings back-button retention across all sub-pages, 2-tap trail loading, and cleaner Settings UI."
 }
