@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.0-rc55",
-  "versionCode": 55,
-  "sha256": "B846E8EBB78C4826837692985FA78615D7265684C9EACDE3856E6AE61198D685",
-  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc55/apex-route-v1.0.0-rc55.apk",
-  "releaseNotes": "v1.0.0-rc55: Complete 48 Contiguous US States + DC (49-pack) offline state catalog, multi-graph highway border stitching, policy-change-only waiver UX, offline DEM elevation & USFS seasonal gate alerts, Bluetooth handlebar controller support, and R8 shrunk Play-signed packaging."
+  "versionName": "1.0.0-rc56",
+  "versionCode": 56,
+  "sha256": "7F30489330302AFE6F78F0F806F535B61A58E6CDA24A163922EBD195A04E9FF1",
+  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc56/apex-route-v1.0.0-rc56.apk",
+  "releaseNotes": "v1.0.0-rc56: Fixes repeating weather/hazard banner dismissal across GPS ticks and adds high-contrast Dirt Trail (Green Dashed) vs. Pavement (Solid Blue) route styling, online ORS surface tag extraction, and live HUD surface badges."
 }
