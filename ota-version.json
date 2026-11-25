@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.0-rc56",
-  "versionCode": 56,
-  "sha256": "7F30489330302AFE6F78F0F806F535B61A58E6CDA24A163922EBD195A04E9FF1",
-  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc56/apex-route-v1.0.0-rc56.apk",
-  "releaseNotes": "v1.0.0-rc56: Fixes repeating weather/hazard banner dismissal across GPS ticks and adds high-contrast Dirt Trail (Green Dashed) vs. Pavement (Solid Blue) route styling, online ORS surface tag extraction, and live HUD surface badges."
+  "versionName": "1.0.0-rc57",
+  "versionCode": 57,
+  "sha256": "EA6ECD09370A4363867894430D2F6A03D9A241FA166C245FDCBC4960DA06DFD0",
+  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc57/apex-route-v1.0.0-rc57.apk",
+  "releaseNotes": "v1.0.0-rc57: De-cramps all Settings, Turn-by-Turn, Vehicle Setup, Offline Maps, Plan Trip, BDR, and Cockpit screens for Display Zoom +1 & large font scale; deduplicates multi-zone NWS weather advisories with 1-tap permanent dismissal; preserves all saved rigs, preferences, signed waiver & offline maps."
 }

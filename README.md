@@ -2,8 +2,8 @@
 
 APEX Route public phone releases and nationwide offline map packs (free to download, no account needed).
 
-- **Latest Clean Phone APK (`v1.0.0-rc56`):**
-  [`apex-route-v1.0.0-rc56.apk`](https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc56/apex-route-v1.0.0-rc56.apk)
+- **Latest Clean Phone APK (`v1.0.0-rc57`):**
+  [`apex-route-v1.0.0-rc57.apk`](https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc57/apex-route-v1.0.0-rc57.apk)
   *( installs cleanly as a fresh install or updates in place over previous releases without losing saved rigs, places, signed waiver, or offline maps )*.
 - **Offline State Maps (All 48 Contiguous US States + DC — 49 Packs):**
   Open **Settings → Offline Maps** inside APEX Route to download any state's PMTiles vector basemap, local Valhalla 3.6.3 truck/trailer/4×4/motorcycle routing tiles, and SQLite FTS5 towns/fuel/hospitals/campsites search database.
