@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.0-rc57",
-  "versionCode": 57,
-  "sha256": "EA6ECD09370A4363867894430D2F6A03D9A241FA166C245FDCBC4960DA06DFD0",
-  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc57/apex-route-v1.0.0-rc57.apk",
-  "releaseNotes": "v1.0.0-rc57: De-cramps all Settings, Turn-by-Turn, Vehicle Setup, Offline Maps, Plan Trip, BDR, and Cockpit screens for Display Zoom +1 & large font scale; deduplicates multi-zone NWS weather advisories with 1-tap permanent dismissal; preserves all saved rigs, preferences, signed waiver & offline maps."
+  "versionName": "1.0.0-rc58",
+  "versionCode": 58,
+  "sha256": "DD33E25A6091DE67BEC2D3944796378D1D7D19C4CCE5B43121C8A738BCB374E0",
+  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc58/apex-route-v1.0.0-rc58.apk",
+  "releaseNotes": "v1.0.0-rc58: Real toggle switches for all map overlays, all 42 US BDR trails pre-loaded automatically, cleaner Motorcycle Riding Style & BDR picker, and 1-tap Region / All-US Offline State Maps."
 }
