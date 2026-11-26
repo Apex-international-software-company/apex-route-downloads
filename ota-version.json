@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.0-rc59",
-  "versionCode": 59,
-  "sha256": "30FFF8EC3D3CB79A85300BBBD97EF9B06225D73EA05596021E8F55CE668A96EC",
-  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc59/apex-route-v1.0.0-rc59.apk",
-  "releaseNotes": "v1.0.0-rc59: Full 50 US States + DC offline maps (including Alaska & Hawaii), built-in Alaska Backcountry trails (Dalton Hwy, Denali Hwy, Wrangell-St. Elias), Settings back-button retention across all sub-pages, 2-tap trail loading, and cleaner Settings UI."
+  "versionName": "1.0.0-rc60",
+  "versionCode": 60,
+  "sha256": "AF2C6E41327CD069D16B6E7305564CC1985EFB9B0153A1AD9617D1F44583F020",
+  "apkUrl": "https://github.com/Apex-international-software-company/apex-route-downloads/releases/download/v1.0.0-rc60/apex-route-v1.0.0-rc60.apk",
+  "releaseNotes": "v1.0.0-rc60: Fixed BDR & GPX trail starting so routes start from your actual GPS location or any typed street address (e.g. 4130 Sugarloaf Rd, Hendersonville, NC) with turn-by-turn road directions to the nearest trail entry instead of starting in another state, added Northbound/Southbound direction choice & full closed-loop wrap, fixed street-level zoom on START, and cleaned up active navigation banners."
 }
